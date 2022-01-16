@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "73pYNbNCyqVIYm9Zmu2seEsThuFvWzw06Ijwrc+jgTmn+cJ9z/7UJA9qxMLZe/zpfzy2F7mfoF8nFbeeGDohQA==",
+  "success": true,
+  "projectFilePath": "D:\\LocalProject\\FileReader\\FileReader\\FileReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikhi\\.nuget\\packages\\interop.word\\1.0.0\\interop.word.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
